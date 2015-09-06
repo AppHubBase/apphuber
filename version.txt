@@ -1,1 +1,1 @@
-1;https://github.com/AppHubBase/apphuber/raw/master/AppHuber.apk
+2;https://github.com/AppHubBase/apphuber/raw/master/AppHuber.apk
