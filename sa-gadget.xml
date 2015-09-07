@@ -10,8 +10,8 @@
 // Required parameters. 
 var publisherId = '107361155'; 
 var productId = '208539937'; 
-var width = 320; 
-var height = 50; 
+var width = 728; 
+var height = 90; 
 // Optional parameters. var userId = ""; 
 var packageName = ""; 
 var isp = ""; 
