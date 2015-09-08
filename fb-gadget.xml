@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<ModulePrefs title="fb Start" title_url="https://www.apphuber.com" width="120" height="70" scrolling="false" directory_title="FB like button" description="Google Gadget to add Fb button" author="Philippe Chappuis" author_affiliation="Google" author_location="Rolle Switzerland" author_link="http://www.apphuber.com" author_aboutme="APK Downloader" author_quote="AppHuber">
+</ModulePrefs>
+
+
+<Content type="html"><![CDATA[
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=1605743563025352";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+]]></Content>
+</Module>
